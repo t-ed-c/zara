@@ -1,0 +1,3 @@
+# Implemented Zara Compiler's Week 5 Semantic Analyzer
+
+# Code to perform semantic analysis...
